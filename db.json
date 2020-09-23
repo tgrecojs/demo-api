@@ -1,0 +1,9 @@
+{
+  "users": [
+    {
+      "id": "abc123",
+      "hasAccess": true
+    },
+    { "id": "efg456", "hasAccess": false }
+  ]
+}
